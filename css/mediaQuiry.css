@@ -1,0 +1,41 @@
+@media screen and (max-width: 576px) {
+    .navbar .menu {
+        display: block;
+        width: fit-content;
+        margin-left: auto;
+    }
+    .navbar ul{
+        display: none;
+    }
+    .mod{
+        margin-left: auto;
+    }
+    .container {
+        max-width: 500px;
+    }
+    .home-img{
+        width: 100%;
+    }
+    .home-caption h2,.home-caption p{
+        width: 100%;
+    }
+    .button{
+        width: 100%;
+    }
+    .about-caption{
+        width: 100%;
+    }
+    .about{
+        width: 100%;
+    }
+    .Get-in-Touch{
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .chef-cards .section1 {
+    width: 100%;
+    }
+}
